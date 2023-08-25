@@ -1,7 +1,7 @@
 {
-  "name": "section-10-sql",
+  "name": "section-11-sequelize",
   "version": "1.0.0",
-  "description": "udemy max mvc enhanced and advanced",
+  "description": "crud nodejs-sequelize",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
